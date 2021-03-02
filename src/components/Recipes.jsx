@@ -18,7 +18,7 @@ const Recipes = () => {
     const [recipe, setRecipe] = useState({})
     return (
         <div>
-            <h3>Current Recipe: </h3>
+            <h3>whatever Current Recipe: </h3>
             <button onClick={ () => setRecipe(elvenShieldRecipe) }>Elven Shield Recipe</button>
             <button onClick={ () => setRecipe(elvenGauntletsRecipe) }>Elven Gaunt Recipe</button>
 

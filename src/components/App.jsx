@@ -11,7 +11,7 @@ const App = () => {
             <main>
                 <section>
                     <div>
-                        Oh, hai, React!
+                        Oh, hai, React!dd
                     </div>
                 </section>
                 <img src={sword} alt="sword" width="250" />
